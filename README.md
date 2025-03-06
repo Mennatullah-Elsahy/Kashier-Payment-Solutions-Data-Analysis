@@ -11,7 +11,8 @@
 </ul>
 
 <h2>📊 How to View the Interactive Notebook</h2>
-<p> Due to the large size of the plots, visualizations may not render properly on GitHub. To view the notebook interactively with all visualizations, please click the link below: </p>
+<p> ⚠️ Due to the large size of the plots, visualizations may not render properly on GitHub. 
+    📌To view the notebook interactively with all visualizations, please click the link below: </p>
 <p> 👉 <a href="https://nbviewer.org/github/Mennatullah-Elsahy/Kashier-Payment-Solutions-Data-Analysis/blob/main/Final.ipynb" target="_blank">View the Notebook on nbviewer</a> </p>
     
 <h2>🚀 Conclusion</h2>
