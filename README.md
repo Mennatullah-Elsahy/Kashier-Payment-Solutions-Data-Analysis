@@ -1,41 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kashier Payment Solutions Data Analysis</title>
-</head>
-<body>
-    <h1>Kashier Payment Solutions Data Analysis</h1>
-    <p>
-        This repository contains an in-depth analysis of Kashier's payment transactions to determine the most profitable product and optimize resource allocation.
-    </p>
-    
-    <h2>📌 Project Overview</h2>
-    <p>
-        Kashier operates multiple payment solutions, each with different commission structures. The goal of this analysis is to provide insights and recommendations based on transaction data.
-    </p>
-    
-    <h2>📊 How to View the Interactive Notebook</h2>
-    <p>
-        Due to the large size of the plots, visualizations may not render properly on GitHub. To view the notebook interactively with all visualizations, please click the link below:
-    </p>
-    <p>
-        👉 <a href="https://nbviewer.org/github/Mennatullah-Elsahy/Kashier-Payment-Solutions-Data-Analysis/blob/main/Final.ipynb" target="_blank">View the Notebook on nbviewer</a>
-    </p>
-    
-    <h2>📂 Contents</h2>
-    <ul>
-        <li>Data cleaning and preprocessing</li>
-        <li>Exploratory data analysis (EDA)</li>
-        <li>Transaction trends and insights</li>
-        <li>Profitability evaluation per product</li>
-        <li>Final recommendations</li>
-    </ul>
-    
-    <h2>🚀 Conclusion</h2>
-    <p>
-        Based on the analysis, key recommendations have been made to enhance profitability and resource allocation for Kashier.
-    </p>
-</body>
-</html>
+<h1>Kashier Payment Solutions Data Analysis</h1>
+
+<p>This repository contains an in-depth analysis of Kashier's transaction data to determine the most profitable product for resource allocation.</p>
+
+<h2>📌 Key Highlights:</h2>
+<ul>
+    <li>Data cleaning and preprocessing for accurate insights.</li>
+    <li>Exploratory data analysis to identify trends and patterns.</li>
+    <li>Visualizations to support findings and recommendations.</li>
+</ul>
+
+<h2>📊 Interactive Notebook:</h2>
+<p>To view the interactive notebook with all visualizations, please visit:</p>
+<a href="https://nbviewer.org/github/Mennatullah-Elsahy/Kashier-Payment-Solutions-Data-Analysis/blob/main/Final.ipynb" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:white; text-decoration:none; border-radius:5px;">View Notebook</a>
+
+<h2>📂 Repository Contents:</h2>
+<ul>
+    <li><strong>Final.ipynb</strong> - The complete Jupyter Notebook with the full analysis.</li>
+    <li><strong>Cleaned Data</strong> - The dataset after preprocessing and cleaning.</li>
+    <li><strong>Report</strong> - Summary of findings and recommendations.</li>
+</ul>
+
+<p>For any inquiries or further details, feel free to reach out!</p>
