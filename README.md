@@ -20,4 +20,3 @@
     <li><strong>Report</strong> - Summary of findings and recommendations.</li>
 </ul>
 
-<p>For any inquiries or further details, feel free to reach out!</p>
