@@ -3,7 +3,7 @@
 <h2>📌 Project Overview</h2>
 <p>This repository contains an in-depth analysis of Kashier's transaction data to determine the most profitable product for resource allocation.</p>
 
-<h2>📎📂 Repository Contents:</h2>
+<h2>📎 Repository Contents:</h2>
 <ul>
     <li><strong>Final.ipynb</strong> - The complete Jupyter Notebook with the full analysis.</li>
     <li><strong>Cleaned Data</strong> - The dataset after preprocessing and cleaning.</li>
