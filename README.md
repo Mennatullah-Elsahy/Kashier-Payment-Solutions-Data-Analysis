@@ -1,4 +1,4 @@
-<h1>Data-Driven Profit Maximization in FinTech Channels</h1>
+<h1>Kashier-Payment-Solutions-Data-Analysis</h1>
 
 <h2>📌 Project Overview</h2>
 <p>This repository contains an in-depth analysis of Kashier's transaction data to determine the most profitable product for resource allocation.</p>
